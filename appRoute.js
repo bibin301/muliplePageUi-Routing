@@ -36,6 +36,12 @@
       .state('home.page2',{
         url:"/page2",
         templateUrl:"dashboard/page2.html"
+      }).state('home.page3',{
+        url:"/page3",
+        templateUrl:"dashboard/page3.html"
+      }).state('home.page4',{
+        url:"/page4",
+        templateUrl:"dashboard/page4.html"
       })
 
 
